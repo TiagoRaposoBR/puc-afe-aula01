@@ -1,0 +1,40 @@
+
+.feed {
+    width: 30rem;
+    margin: 30px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.feed__titulo {
+    margin-bottom: 2rem;
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.feed__post {
+    margin: 20px 0;
+    cursor: pointer;
+}
+
+.feed__post:hover .feed__post--titulo {
+    color: royalblue;
+}
+
+.feed__post--titulo {
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.feed__post--texto {
+    font-style: italic;
+}
+
+.feed__ver-mais {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.feed__ver-mais:hover {
+    color: royalblue;
+}
