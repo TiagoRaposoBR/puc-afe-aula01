@@ -16,6 +16,11 @@
 .cabecalho__menu--item {
     margin: 8px 30px;
     display: inline-block;
+    cursor: pointer;
+}
+
+.cabecalho__menu--item:hover {
+    font-weight: bold;
 }
 
 .cabecalho__imagem {
