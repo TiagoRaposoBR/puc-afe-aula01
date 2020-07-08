@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-feed-post',
+  selector: 'feed-post',
   templateUrl: './feed-post.component.html',
   styleUrls: ['./feed-post.component.css']
 })
