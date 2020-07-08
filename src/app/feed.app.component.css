@@ -11,25 +11,6 @@
     font-weight: bold;
 }
 
-.feed__post {
-    margin: 20px 0;
-    cursor: pointer;
-}
-
-.feed__post:hover .feed__post--titulo {
-    color: royalblue;
-}
-
-.feed__post--titulo {
-    font-size: larger;
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-}
-
-.feed__post--texto {
-    font-style: italic;
-}
-
 .feed__ver-mais {
     font-weight: bold;
     cursor: pointer;
